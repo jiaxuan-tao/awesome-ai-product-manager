@@ -43,7 +43,8 @@
 
 ## Tools｜工具调用
 
-> 内容持续更新中。
+- [Playwright MCP｜让 AI 操作浏览器的工具调用案例](./playwright-mcp-browser-tool.md)
+  - 关键词：Tools、MCP、浏览器自动化、Playwright、AI 工具调用、任务执行
 
 ---
 
