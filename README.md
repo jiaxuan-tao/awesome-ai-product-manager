@@ -14,12 +14,8 @@
 
 ## Contents｜内容目录 📚
 
-- AI Product Resources｜AI 产品资料
-- AI Product Case Studies｜AI 产品案例观察
-- Open Source AI Projects｜开源 AI 项目
-- Prompt Templates｜Prompt 模板
-- AI Workflow & Skills｜AI 工作流与 Skills
-- Vibe Coding References｜Vibe Coding 项目参考
+- [Open Source AI Projects｜开源 AI 项目](./open-source-ai-projects.md)
+- [AI Product Notes｜AI 产品笔记](./ai-product-notes.md)
 
 ---
 
