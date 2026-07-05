@@ -25,3 +25,5 @@
 
 - [kotaemon｜开源 RAG 文档问答工具](kotaemon-rag-document-chat.md)
   - 关键词：RAG、文档问答、RAG UI、文档知识库、开源项目
+- [awesome-llm-apps｜开源 LLM 应用案例库](./awesome-llm-apps.md)
+  - 关键词：LLM Apps、AI Agent、RAG、MCP、Vibe Coding、应用案例库
