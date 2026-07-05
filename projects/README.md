@@ -27,3 +27,5 @@
   - 关键词：RAG、文档问答、RAG UI、文档知识库、开源项目
 - [awesome-llm-apps｜开源 LLM 应用案例库](./awesome-llm-apps.md)
   - 关键词：LLM Apps、AI Agent、RAG、MCP、Vibe Coding、应用案例库
+- [Dify｜开源 LLM 应用开发平台](./dify-llm-app-platform.md)
+  - 关键词：LLM App Platform、AI Workflow、RAG、Agent、模型管理、可观测性
