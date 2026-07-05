@@ -35,3 +35,5 @@
 
 - [Product Manager Prompts for Generative AI｜产品经理生成式 AI Prompt 工作流](./notes/product-manager-prompts.md)
   - 关键词：Prompt、AI 工作流、产品经理工具箱、任务入口设计
+- [Product Manager Skills｜产品经理 AI Skills 工作流](./notes/product-manager-skills.md)
+  - 关键词：Skills、AI Agent、产品经理工作流、能力模块设计
