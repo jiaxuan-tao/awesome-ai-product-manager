@@ -33,9 +33,6 @@
 
 ## Notes List｜笔记列表
 
-> 内容持续更新中。
----
-
 ## Product Manager Prompts for Generative AI｜产品经理生成式 AI Prompt 工作流 🧩
 
 - Source｜来源：deanpeters/product-manager-prompts
