@@ -36,7 +36,8 @@
 
 ## MCP｜模型上下文协议
 
-> 内容持续更新中。
+- [MCP Servers｜让 AI 连接外部工具和数据源](./model-context-protocol-servers.md)
+  - 关键词：MCP、工具连接、外部数据源、Agent 工具调用、上下文协议
 
 ---
 
