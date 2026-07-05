@@ -1,39 +1,59 @@
-# AI Product Notes｜AI 产品笔记 📝
+# Notes｜AI 产品笔记 📝
 
-这里用于整理 AI 产品、Prompt、Skills、Agents、Commands、AI 工作流和 Vibe Coding 相关内容。
+这里用于整理 AI 产品、Prompt、Skills、Agents、Commands、MCP、Tools、AI 工作流和产品化思考相关内容。
 
-这个文件不会只记录零散想法，而是尽量把看到的资料、工具和项目转化成更容易理解、复用和实践的中文内容。
-
----
-
-## What This Page Focuses On｜本页关注什么
-
-- Prompt Templates｜Prompt 模板
-- AI Workflow｜AI 工作流
-- Skills / Agents / Commands｜Skills、Agents、Commands
-- Vibe Coding Practice｜Vibe Coding 实践
-- Product Design for AI｜AI 产品设计
-- Productized Thinking｜AI 工具产品化思考
+这个文件夹暂时不拆分子目录。
+所有具体笔记文章会先统一放在 `notes/` 文件夹下，并通过本页进行分类索引。后续即使内容增加，也会优先通过分类索引维护，避免目录结构过度复杂。
 
 ---
 
-## Note Structure｜整理结构
+## Prompt Templates｜Prompt 模板
 
-后续内容会尽量按照以下结构整理：
-
-- Source｜来源
-- What it is｜它是什么
-- Use Case｜适用场景
-- How to Use｜如何使用
-- Product Value｜产品价值
-- Reusable Value｜可复用价值
-- Product Insight｜产品观察
-
----
-
-## Notes List｜笔记列表
-
-- [Product Manager Prompts for Generative AI｜产品经理生成式 AI Prompt 工作流](product-manager-prompts.md)
+- [Product Manager Prompts for Generative AI｜产品经理生成式 AI Prompt 工作流](./product-manager-prompts.md)
   - 关键词：Prompt、AI 工作流、产品经理工具箱、任务入口设计
-- [Product Manager Skills｜产品经理 AI Skills 工作流](product-manager-skills.md)
+
+---
+
+## Skills｜能力模块
+
+- [Product Manager Skills｜产品经理 AI Skills 工作流](./product-manager-skills.md)
   - 关键词：Skills、AI Agent、产品经理工作流、能力模块设计
+
+---
+
+## Agents｜智能体
+
+> 内容持续更新中。
+
+---
+
+## Workflows｜AI 工作流
+
+> 内容持续更新中。
+
+---
+
+## MCP｜模型上下文协议
+
+> 内容持续更新中。
+
+---
+
+## Tools｜工具调用
+
+> 内容持续更新中。
+
+---
+
+## Methods & Notes｜方法与观察
+
+> 内容持续更新中。
+
+---
+
+## Rule｜整理规则
+
+- 每篇笔记单独保存为一个 Markdown 文件
+- 本页只保留分类、链接和关键词
+- 暂时不拆分 notes 子文件夹
+- 后续内容增加时，优先通过本页分类索引维护
