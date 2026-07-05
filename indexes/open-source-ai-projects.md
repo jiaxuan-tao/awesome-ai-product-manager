@@ -23,5 +23,5 @@
 
 ## Project List｜项目列表
 
-- [kotaemon｜开源 RAG 文档问答工具](./projects/kotaemon-rag-document-chat.md)
+- [kotaemon｜开源 RAG 文档问答工具](../projects/kotaemon-rag-document-chat.md)
   - 关键词：RAG、文档问答、RAG UI、文档知识库、开源项目

@@ -37,8 +37,8 @@
 
 ## Contents｜内容目录 📂
 
-- [Open Source AI Projects｜开源 AI 项目](./open-source-ai-projects.md)
-- [AI Product Notes｜AI 产品笔记](./ai-product-notes.md)
+- [Open Source AI Projects｜开源 AI 项目](./indexes/open-source-ai-projects.md)
+- [AI Product Notes｜AI 产品笔记](./indexes/ai-product-notes.md)
 
 ---
 
