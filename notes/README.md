@@ -30,7 +30,8 @@
 
 ## Workflows｜AI 工作流
 
-> 内容持续更新中。
+- [PromptInfuser｜把 Prompt 和 UI 原型放进同一个工作流](./promptinfuser-ai-ui-workflow.md)
+  - 关键词：AI Workflow、Prompt、UI 原型、AI UX、Vibe Coding、产品验证
 
 ---
 
