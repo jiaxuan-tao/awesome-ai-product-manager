@@ -1,38 +1,61 @@
-# Awesome AI Product Manager 🚀
+# AI Product Manager Chinese Toolkit 🚀
 
-这是一个面向 AI 产品学习者、产品经理、设计师和 AI 工具实践者整理的资料库。
+这是一个面向 AI 产品经理、产品设计师和 AI 工具实践者的中文工具箱与资料整理库。
 
-我创建这个仓库，是希望持续沉淀 AI 产品相关的优质资料、开源项目、Prompt 模板、Skills、Agents 和 Vibe Coding 项目参考，帮助更多人更高效地理解 AI 产品、AI 工具和产品实践之间的关系。
+这个仓库不只是简单收藏链接，而是希望从产品视角，对 AI 产品、开源项目、Prompt 模板、Skills、Agents、Vibe Coding 项目等内容进行筛选、整理、中文化和场景化改写，让它们更容易被理解、复用和实践。
 
-在 AI 产品快速发展的过程中，很多有价值的信息分散在不同的项目、文档、文章和工具中。这个仓库会尝试从产品视角对这些内容进行整理、筛选和结构化，让它们更容易被理解、复用和进一步实践。
+在 AI 产品快速发展的过程中，很多有价值的资料分散在不同的项目、文档、文章和工具中。这个仓库会尝试把这些内容整理成更清晰的中文结构，帮助关注 AI 产品的人更快找到方向、理解工具、复用模板，并把想法转化为具体实践。
 
-我希望这里不只是一个资料收藏夹，而是一个持续更新的 AI 产品实践参考库。它既记录我对 AI 产品和工具生态的观察，也希望能为同样关注 AI 产品方向的人提供一些有用的线索和启发。
-
-如果你也正在关注 AI 产品、AI 工具或 Vibe Coding，但一时不知道从哪里开始，希望这个仓库能给你一点方向感。哪怕只是帮你更快找到一个项目、理解一个概念、复用一个 Prompt，或者少走一点弯路，这个整理就有意义。
+如果你也在关注 AI 产品、AI 工具、Prompt、Agent 或 Vibe Coding，希望这里能为你提供一些可参考的资料、模板和项目线索。哪怕只是帮你更快理解一个概念、找到一个项目、复用一个 Prompt，或者少走一点弯路，这个整理就有意义。
 
 ---
 
-## Contents｜内容目录 📚
+## What This Repository Provides｜这个仓库提供什么 📚
+
+- AI Product Resources｜AI 产品资料整理
+- AI Product Case Notes｜AI 产品案例观察
+- Open Source AI Projects｜开源 AI 项目产品化解读
+- Prompt Templates｜Prompt 模板整理
+- AI Workflow & Skills｜AI 工作流与 Skills 整理
+- Vibe Coding References｜Vibe Coding 项目参考
+- Productized Thinking｜AI 工具产品化思考
+
+---
+
+## Core Value｜核心价值 🧭
+
+这个仓库会尽量避免只做“链接收藏”，而是重点补充：
+
+- What it is｜它是什么
+- Who it is for｜适合谁
+- How it works｜它怎么用
+- Why it matters｜它为什么值得关注
+- How to reuse it｜它可以如何复用
+- Product Insight｜它带来的产品启发
+
+---
+
+## Contents｜内容目录 📂
 
 - [Open Source AI Projects｜开源 AI 项目](./open-source-ai-projects.md)
 - [AI Product Notes｜AI 产品笔记](./ai-product-notes.md)
 
 ---
 
-## Update Plan｜更新计划 🧭
+## Update Plan｜更新计划 🔄
 
 我会持续更新以下内容：
 
-- 公开资料整理
-- 开源项目观察
-- AI 产品相关 Prompt
+- 值得关注的开源 AI 项目
+- AI 产品相关 Prompt 模板
 - Skills / Agents / Commands 用法整理
 - Vibe Coding 项目参考
-- AI 产品学习过程中的阶段性记录
+- AI 产品与工具的产品化观察
+- 可复用的 AI 产品工作流与模板
 
 ---
 
 ## Note｜说明 📝
 
-本仓库内容主要基于公开资料、开源项目和个人学习过程进行整理。  
-部分内容会结合 AI 产品视角进行中文化、结构化和场景化改写。原始项目或资料版权归原作者所有。  
+本仓库内容主要基于公开资料、开源项目和个人观察进行整理。  
+部分内容会结合 AI 产品视角进行中文化、结构化和场景化改写。原始项目或资料版权归原作者所有。 
