@@ -51,7 +51,8 @@
 
 ## Methods & Notes｜方法与观察
 
-> 内容持续更新中。
+- [AI Product Evaluation｜AI 产品评估方法](./ai-product-evaluation-framework.md)
+  - 关键词：AI 产品评估、AI UX、任务完成度、输出质量、信任感、异常兜底
 
 ---
 
