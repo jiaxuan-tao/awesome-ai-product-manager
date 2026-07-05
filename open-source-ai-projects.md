@@ -1,0 +1,26 @@
+# Open Source AI Projects｜开源 AI 项目
+
+这里会持续整理值得关注的开源 AI 项目，并从产品视角记录它们的定位、核心能力、适用场景和可参考之处。
+
+这些项目可能包括 AI Chatbot、AI Agent、RAG 应用、AI 工作流工具、Vibe Coding 项目等。  
+我会尽量从产品视角理解这些项目，而不只关注技术实现。
+
+---
+
+## 项目整理模板
+
+后续每个项目会尽量按照以下结构整理：
+
+- Project Name｜项目名称
+- GitHub Link｜项目链接
+- Product Direction｜产品方向
+- Core Features｜核心功能
+- Use Cases｜适用场景
+- Product Reference Value｜产品参考价值
+- Notes｜个人观察
+
+---
+
+## Project List｜项目列表
+
+> 内容持续更新中。
