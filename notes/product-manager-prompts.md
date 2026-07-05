@@ -1,6 +1,4 @@
----
-
-## Product Manager Prompts for Generative AI｜产品经理生成式 AI Prompt 工作流 🧩
+# Product Manager Prompts for Generative AI｜产品经理生成式 AI Prompt 工作流 🧩
 
 - Source｜来源：deanpeters/product-manager-prompts
 - Type｜类型：Prompt 模板库 / 产品经理 AI 工作流参考
