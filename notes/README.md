@@ -23,7 +23,8 @@
 
 ## Agents｜智能体
 
-> 内容持续更新中。
+- [OpenAI Agents SDK｜从 Prompt 到 Agent 工作流](./openai-agents-sdk.md)
+  - 关键词：Agent、Multi-agent Workflow、工具调用、任务编排、Agent 产品设计
 
 ---
 
