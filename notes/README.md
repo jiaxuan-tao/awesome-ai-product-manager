@@ -53,6 +53,8 @@
 
 - [AI Product Evaluation｜AI 产品评估方法](./methods/ai-product-evaluation-framework.md)
   - 关键词：AI 产品评估、AI UX、任务完成度、输出质量、信任感、异常兜底
+- [Context Engineering｜从 Prompt 到上下文工程](./methods/context-engineering-for-ai-products.md)
+  - 关键词：Context Engineering、上下文工程、Agent、RAG、Workflow、AI 产品方法
 
 ---
 
