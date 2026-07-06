@@ -32,6 +32,8 @@
 
 - [PromptInfuser｜把 Prompt 和 UI 原型放进同一个工作流](./workflows/promptinfuser-ai-ui-workflow.md)
   - 关键词：AI Workflow、Prompt、UI 原型、AI UX、Vibe Coding、产品验证
+- [Human-in-the-loop｜Agent 工作流中的人类介入机制](./workflows/human-in-the-loop-agent-workflow.md)
+  - 关键词：Human-in-the-loop、Agent Workflow、人工确认、风险控制、AI UX
 
 ---
 
