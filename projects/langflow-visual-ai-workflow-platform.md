@@ -1,4 +1,8 @@
-# Langflow｜把 AI Agent / RAG 工作流变成可视化产品搭建过程 🧩
+# Langflow｜可视化 AI Workflow 与 Agent 搭建平台 🧩
+
+- Source｜来源：langflow-ai/langflow
+- Type｜类型：开源低代码 AI Workflow / Agent / RAG / MCP 平台
+- Link｜链接：https://github.com/langflow-ai/langflow
 
 Langflow 是一个开源低代码 AI 应用搭建平台，主要用于构建 AI Agents、RAG 应用、MCP Servers 和可复用的 AI 工作流。
 
@@ -364,19 +368,3 @@ Langflow 说明了一个明显趋势：
 Langflow 这类工具把这些隐藏过程可视化，是它最值得被产品观察的地方。
 
 它也提醒我们，AI 产品经理不能只理解“模型能做什么”，还需要理解“能力如何被编排成稳定的产品流程”。
-
----
-
-## Source｜来源 📚
-
-- Langflow Official Website
-  https://www.langflow.org/
-
-- Langflow GitHub Repository
-  https://github.com/langflow-ai/langflow
-
-- Langflow Documentation
-  https://docs.langflow.org/
-
-- Langflow MCP Server Documentation
-  https://docs.langflow.org/mcp-server
