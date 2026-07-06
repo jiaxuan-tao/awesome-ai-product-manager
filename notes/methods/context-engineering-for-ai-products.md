@@ -1,6 +1,6 @@
 # Context Engineering｜从 Prompt 到上下文工程 🧠
 
-- Source｜来源：LangChain
+- Source｜来源：LangChain Blog
 - Type｜类型：AI 产品方法观察 / Context Engineering / Agent / RAG / Workflow
 - Link｜链接：https://www.langchain.com/blog/context-engineering-for-agents
 
