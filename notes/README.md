@@ -46,6 +46,8 @@
 
 - [Playwright MCP｜让 AI 操作浏览器的工具调用案例](./tools/playwright-mcp-browser-tool.md)
   - 关键词：Tools、MCP、浏览器自动化、Playwright、AI 工具调用、任务执行
+- [Tool Calling UX｜AI 工具调用体验观察](./tools/tool-calling-ux-for-ai-products.md)
+  - 关键词：Tool Calling、MCP、Agent UX、工具调用、权限控制、执行反馈
 
 ---
 
