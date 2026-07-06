@@ -29,3 +29,5 @@
   - 关键词：LLM Apps、AI Agent、RAG、MCP、Vibe Coding、应用案例库
 - [Dify｜开源 LLM 应用开发平台](./dify-llm-app-platform.md)
   - 关键词：LLM App Platform、AI Workflow、RAG、Agent、模型管理、可观测性
+- [Langflow｜可视化 AI Workflow 与 Agent 搭建平台](./langflow-visual-ai-workflow-platform.md)
+  - 关键词：AI Workflow、Agent、RAG、MCP、可视化编排、低代码
