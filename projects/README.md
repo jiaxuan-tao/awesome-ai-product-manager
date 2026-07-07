@@ -31,3 +31,5 @@
   - 关键词：LLM App Platform、AI Workflow、RAG、Agent、模型管理、可观测性
 - [Langflow｜可视化 AI Workflow 与 Agent 搭建平台](./langflow-visual-ai-workflow-platform.md)
   - 关键词：AI Workflow、Agent、RAG、MCP、可视化编排、低代码
+- [Flowise｜可视化低代码 AI Agent 搭建平台](./flowise-low-code-ai-agent-builder.md)
+  - 关键词：Flowise、低代码、AI Agent、LLM Workflow、Visual Builder、开源项目
