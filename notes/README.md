@@ -25,6 +25,8 @@
 
 - [OpenAI Agents SDK｜从 Prompt 到 Agent 工作流](./agents/openai-agents-sdk.md)
   - 关键词：Agent、Multi-agent Workflow、工具调用、任务编排、Agent 产品设计
+- [LangGraph｜Stateful Agent 编排框架的产品观察](./agents/langgraph-stateful-agent-orchestration.md)
+  - 关键词：LangGraph、Stateful Agent、Agent Orchestration、Workflow、状态管理、可恢复执行
 
 ---
 
