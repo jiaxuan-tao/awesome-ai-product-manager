@@ -33,3 +33,5 @@
   - 关键词：AI Workflow、Agent、RAG、MCP、可视化编排、低代码
 - [Flowise｜可视化低代码 AI Agent 搭建平台](./flowise-low-code-ai-agent-builder.md)
   - 关键词：Flowise、低代码、AI Agent、LLM Workflow、Visual Builder、开源项目
+- [OpenHands｜AI 软件开发 Agent 平台](./openhands-ai-software-agent.md)
+  - 关键词：OpenHands、Coding Agent、Software Engineering Agent、AI 软件开发、任务执行
