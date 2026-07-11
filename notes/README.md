@@ -11,6 +11,8 @@
 
 - [Product Manager Prompts for Generative AI｜产品经理生成式 AI Prompt 工作流](./prompts/product-manager-prompts.md)
   - 关键词：Prompt、AI 工作流、产品经理工具箱、任务入口设计
+- [Prompt Versioning｜把 Prompt 从一次性文本变成可迭代的产品配置](./prompts/prompt-versioning-product-configuration.md)
+  - 关键词：Prompt Management、Prompt Versioning、版本管理、Prompt 评估、发布控制、AI Workflow
 
 ---
 
