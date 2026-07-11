@@ -1,6 +1,6 @@
 # Notes｜AI 产品笔记 📝
 
-这里用于整理 AI 产品、Prompt、Skills、Agents、Commands、MCP、Tools、AI 工作流和产品化思考相关内容。
+这里用于整理 AI 产品、Prompt、Skills、Agents、MCP、Tools、AI 工作流和产品化思考相关内容。
 
 这个文件夹按分类子目录整理具体笔记文章。
 所有具体笔记文章会通过本页进行分类索引，方便后续持续扩展和维护。
@@ -45,6 +45,8 @@
 
 - [MCP Servers｜让 AI 连接外部工具和数据源](./mcp/model-context-protocol-servers.md)
   - 关键词：MCP、工具连接、外部数据源、Agent 工具调用、上下文协议
+- [MCP Authorization｜AI 工具连接中的授权与信任边界](./mcp/mcp-authorization-and-trust-boundaries.md)
+  - 关键词：MCP Authorization、OAuth、权限边界、最小权限、授权撤销、Agent 治理
 
 ---
 
