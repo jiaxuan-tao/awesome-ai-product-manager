@@ -168,7 +168,7 @@ Coding Agent 的价值在于能够连接这些工具，让 AI 不只是提出建
 
 ---
 
-## Use Case｜适用场景
+## Use Case｜适用场景 📌
 
 OpenHands 适合观察几类 AI Coding 场景。
 
