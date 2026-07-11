@@ -35,3 +35,5 @@
   - 关键词：Flowise、低代码、AI Agent、LLM Workflow、Visual Builder、开源项目
 - [OpenHands｜AI 软件开发 Agent 平台](./openhands-ai-software-agent.md)
   - 关键词：OpenHands、Coding Agent、Software Engineering Agent、AI 软件开发、任务执行
+- [Mem0｜AI Agent 长期记忆层的产品化观察](./mem0-ai-agent-memory-layer.md)
+  - 关键词：Mem0、AI Agent、Long-term Memory、Context Engineering、记忆管理、Agent 产品设计
