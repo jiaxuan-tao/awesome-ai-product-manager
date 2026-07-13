@@ -20,6 +20,8 @@
 
 - [Product Manager Skills｜产品经理 AI Skills 工作流](./skills/product-manager-skills.md)
   - 关键词：Skills、AI Agent、产品经理工作流、能力模块设计
+- [Agent Skills｜把专业能力封装成可发现、可组合的 AI 能力单元](./skills/agent-skills-reusable-capabilities.md)
+  - 关键词：Agent Skills、能力封装、渐进披露、Skill Discovery、可复用能力
 
 ---
 
