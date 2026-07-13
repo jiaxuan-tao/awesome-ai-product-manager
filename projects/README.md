@@ -37,3 +37,5 @@
   - 关键词：OpenHands、Coding Agent、Software Engineering Agent、AI 软件开发、任务执行
 - [Mem0｜AI Agent 长期记忆层的产品化观察](./mem0-ai-agent-memory-layer.md)
   - 关键词：Mem0、AI Agent、Long-term Memory、Context Engineering、记忆管理、Agent 产品设计
+- [Langfuse｜AI 应用可观测性与评估平台](./langfuse-llm-observability-platform.md)
+  - 关键词：Langfuse、LLM Observability、Tracing、Evaluation、Prompt Management、AI 应用运营
