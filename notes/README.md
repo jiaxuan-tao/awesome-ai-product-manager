@@ -42,6 +42,8 @@
   - 关键词：Human-in-the-loop、Agent Workflow、人工确认、风险控制、AI UX
 - [n8n AI Workflow｜从自动化流程到 Agentic Workflow](./workflows/n8n-ai-agentic-workflow.md)
   - 关键词：n8n、AI Workflow、Agentic Workflow、Workflow Automation、工具连接、业务流程
+- [Generative UI｜让 AI 输出从文本回答变成可操作界面](./workflows/generative-ui-ai-native-interface.md)
+  - 关键词：Generative UI、AI-native Interface、Tool Calling、动态组件、交互状态、AI Workflow
 
 ---
 
