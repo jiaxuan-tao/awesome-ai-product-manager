@@ -39,3 +39,5 @@
   - 关键词：Mem0、AI Agent、Long-term Memory、Context Engineering、记忆管理、Agent 产品设计
 - [Langfuse｜AI 应用可观测性与评估平台](./langfuse-llm-observability-platform.md)
   - 关键词：Langfuse、LLM Observability、Tracing、Evaluation、Prompt Management、AI 应用运营
+- [LibreChat｜自托管多模型 AI 工作台](./librechat-self-hosted-ai-workspace.md)
+  - 关键词：LibreChat、Self-hosted、Multi-model、AI Workspace、Agent、MCP、团队治理
