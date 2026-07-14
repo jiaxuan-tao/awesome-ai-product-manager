@@ -51,6 +51,8 @@
   - 关键词：MCP、工具连接、外部数据源、Agent 工具调用、上下文协议
 - [MCP Authorization｜AI 工具连接中的授权与信任边界](./mcp/mcp-authorization-and-trust-boundaries.md)
   - 关键词：MCP Authorization、OAuth、权限边界、最小权限、授权撤销、Agent 治理
+- [MCP Elicitation｜让 AI 在工具调用中向用户补充信息](./mcp/mcp-elicitation-user-input.md)
+  - 关键词：MCP Elicitation、结构化输入、Form Mode、URL Mode、用户决策、任务恢复
 
 ---
 
