@@ -41,3 +41,5 @@
   - 关键词：Langfuse、LLM Observability、Tracing、Evaluation、Prompt Management、AI 应用运营
 - [LibreChat｜自托管多模型 AI 工作台](./librechat-self-hosted-ai-workspace.md)
   - 关键词：LibreChat、Self-hosted、Multi-model、AI Workspace、Agent、MCP、团队治理
+- [RAGFlow｜从复杂文档理解到可追溯 RAG 工作流](./ragflow-document-understanding-rag-platform.md)
+  - 关键词：RAGFlow、Document Understanding、RAG、Context Engine、可追溯引用、知识库运营

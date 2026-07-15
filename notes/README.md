@@ -31,6 +31,8 @@
   - 关键词：Agent、Multi-agent Workflow、工具调用、任务编排、Agent 产品设计
 - [LangGraph｜Stateful Agent 编排框架的产品观察](./agents/langgraph-stateful-agent-orchestration.md)
   - 关键词：LangGraph、Stateful Agent、Agent Orchestration、Workflow、状态管理、可恢复执行
+- [A2A Protocol｜从单个 Agent 到跨系统协作](./agents/a2a-agent-interoperability-protocol.md)
+  - 关键词：A2A、Agent Interoperability、Agent Card、任务委派、多智能体协作、Agent 协议
 
 ---
 
@@ -77,6 +79,8 @@
   - 关键词：Context Engineering、上下文工程、Agent、RAG、Workflow、AI 产品方法
 - [LangChain｜LLM 应用开发基础框架](./methods/langchain-llm-application-framework.md)
   - 关键词：LangChain、LLM Application Framework、RAG、Agent、AI 产品架构
+- [Structured Outputs｜把模型回答变成可验证的产品数据](./methods/structured-outputs-product-data-contract.md)
+  - 关键词：Structured Outputs、JSON Schema、输出契约、数据校验、AI Workflow、产品稳定性
 
 ---
 
