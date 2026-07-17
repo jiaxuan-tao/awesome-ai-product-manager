@@ -46,6 +46,8 @@
   - 关键词：n8n、AI Workflow、Agentic Workflow、Workflow Automation、工具连接、业务流程
 - [Generative UI｜让 AI 输出从文本回答变成可操作界面](./workflows/generative-ui-ai-native-interface.md)
   - 关键词：Generative UI、AI-native Interface、Tool Calling、动态组件、交互状态、AI Workflow
+- [AG-UI Protocol｜让 Agent 状态进入用户界面](./workflows/ag-ui-agent-user-interaction-protocol.md)
+  - 关键词：AG-UI、Agent-User Interaction、事件流、共享状态、流式界面、Agent UX
 
 ---
 
@@ -81,6 +83,8 @@
   - 关键词：LangChain、LLM Application Framework、RAG、Agent、AI 产品架构
 - [Structured Outputs｜把模型回答变成可验证的产品数据](./methods/structured-outputs-product-data-contract.md)
   - 关键词：Structured Outputs、JSON Schema、输出契约、数据校验、AI Workflow、产品稳定性
+- [Prompt Injection｜AI 产品中的指令与数据边界](./methods/prompt-injection-instruction-data-boundary.md)
+  - 关键词：Prompt Injection、指令与数据边界、不可信输入、RAG Security、Agent Safety
 
 ---
 

@@ -43,3 +43,5 @@
   - 关键词：LibreChat、Self-hosted、Multi-model、AI Workspace、Agent、MCP、团队治理
 - [RAGFlow｜从复杂文档理解到可追溯 RAG 工作流](./ragflow-document-understanding-rag-platform.md)
   - 关键词：RAGFlow、Document Understanding、RAG、Context Engine、可追溯引用、知识库运营
+- [E2B｜为 AI Agent 提供隔离执行环境](./e2b-agent-sandbox-platform.md)
+  - 关键词：E2B、AI Agent、Sandbox、隔离执行环境、Agent Runtime、Agent Infrastructure
