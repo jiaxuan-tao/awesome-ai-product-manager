@@ -1,6 +1,6 @@
 # RAGFlow｜从复杂文档理解到可追溯 RAG 工作流 📚
 
-- Source｜来源：infiniflow/ragflow
+- Source｜来源：infiniflow/ragflow GitHub Repository
 - Type｜类型：开源 RAG 引擎 / Document Understanding / Context Engine / Agent Platform
 - Link｜链接：https://github.com/infiniflow/ragflow
 

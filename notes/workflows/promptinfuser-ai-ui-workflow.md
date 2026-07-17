@@ -1,10 +1,10 @@
 # PromptInfuser｜把 Prompt 和 UI 原型放进同一个工作流 🎨
 
-- Source｜来源：PromptInfuser: How Tightly Coupling AI and UI Design Impacts Designers' Workflows
+- Source｜来源：Google Research Publication / PromptInfuser Paper
 - Type｜类型：AI 原型设计工作流 / Prompt + UI Design / Figma Prototype
 - Link｜链接：https://research.google/pubs/promptinfuser-how-tightly-coupling-ai-and-ui-design-impacts-designers-workflows/
 
-### What It Is｜它是什么
+## What It Is｜它是什么
 
 PromptInfuser 是一个围绕 AI 原型设计工作流展开的研究项目。
 它关注的问题是：在设计 AI 产品时，Prompt 设计和 UI 原型设计不应该被完全割裂。
@@ -21,7 +21,7 @@ PromptInfuser 的价值就在于，它尝试把 Prompt 输入、AI 输出和 UI 
 
 ---
 
-### Why It Matters｜为什么值得关注 🔍
+## Why It Matters｜为什么值得关注 🔍
 
 AI 产品和传统产品有一个明显区别：
 传统产品的功能结果相对确定，而 AI 产品的输出往往是不稳定、动态和上下文相关的。
@@ -37,7 +37,7 @@ AI 产品和传统产品有一个明显区别：
 
 ---
 
-### Product Insight｜产品观察 💡
+## Product Insight｜产品观察 💡
 
 这个项目最有启发的地方，是它提醒我们：AI 产品的原型不应该只是低保真界面，也不应该只是单独的 Prompt 测试。
 
@@ -57,7 +57,7 @@ AI 产品和传统产品有一个明显区别：
 
 ---
 
-### Reusable Value｜可复用价值 🛠️
+## Reusable Value｜可复用价值 🛠️
 
 PromptInfuser 这个方向可以被复用在很多 AI 产品设计场景中：
 
@@ -74,7 +74,7 @@ PromptInfuser 这个方向可以被复用在很多 AI 产品设计场景中：
 
 ---
 
-### Possible Productization｜可能的产品化方向 🚀
+## Possible Productization｜可能的产品化方向 🚀
 
 如果把 PromptInfuser 背后的思路产品化，可以发展成一个面向 AI 产品设计者的原型工作台。
 

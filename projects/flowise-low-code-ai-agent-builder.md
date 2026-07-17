@@ -1,6 +1,6 @@
 # Flowise｜可视化低代码 AI Agent 搭建平台 🧩
 
-- Source｜来源：FlowiseAI/Flowise
+- Source｜来源：FlowiseAI/Flowise GitHub Repository
 - Type｜类型：开源低代码 AI Agent / LLM Workflow / Visual Builder 平台
 - Link｜链接：https://github.com/FlowiseAI/Flowise
 

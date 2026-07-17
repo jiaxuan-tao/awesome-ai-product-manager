@@ -1,6 +1,6 @@
 # Prompt Injection｜AI 产品中的指令与数据边界 🛡️
 
-- Source｜来源：OWASP GenAI Security Project
+- Source｜来源：OWASP GenAI Security Project Official Website
 - Type｜类型：AI 产品方法观察 / Prompt Injection / Agent Safety / RAG Security
 - Link｜链接：https://genai.owasp.org/llmrisk/llm01-prompt-injection/
 

@@ -1,6 +1,6 @@
 # Langflow｜可视化 AI Workflow 与 Agent 搭建平台 🧩
 
-- Source｜来源：langflow-ai/langflow
+- Source｜来源：langflow-ai/langflow GitHub Repository
 - Type｜类型：开源低代码 AI Workflow / Agent / RAG / MCP 平台
 - Link｜链接：https://github.com/langflow-ai/langflow
 

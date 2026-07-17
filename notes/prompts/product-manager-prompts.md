@@ -1,11 +1,11 @@
 # Product Manager Prompts for Generative AI｜产品经理生成式 AI Prompt 工作流 🧩
 
-- Source｜来源：deanpeters/product-manager-prompts
+- Source｜来源：deanpeters/product-manager-prompts GitHub Repository
 - Type｜类型：Prompt 模板库 / 产品经理 AI 工作流参考
-- License｜许可证：MIT License
 - Link｜链接：https://github.com/deanpeters/product-manager-prompts
+- License｜许可证：MIT License
 
-### What It Is｜它是什么
+## What It Is｜它是什么
 
 这是一个面向产品经理的生成式 AI Prompt 模板库，主要用于帮助产品经理在 ChatGPT、Claude、Gemini 等 AI 工具中完成产品管理相关任务。
 
@@ -15,7 +15,7 @@
 
 ---
 
-### Why It Matters｜为什么值得关注 🔍
+## Why It Matters｜为什么值得关注 🔍
 
 很多人使用 AI 工具时，仍然停留在“临时问一句”的阶段。这样做的问题是：输出质量不稳定，任务目标不清晰，结果也很难复用。
 
@@ -32,7 +32,7 @@
 
 ---
 
-### Product Insight｜产品观察 💡
+## Product Insight｜产品观察 💡
 
 这个项目最值得参考的地方，是它把“产品经理的隐性工作流程”显性化了。
 
@@ -46,7 +46,7 @@
 
 ---
 
-### Reusable Value｜可复用价值 🛠️
+## Reusable Value｜可复用价值 🛠️
 
 这个项目可以被进一步转化为中文语境下的 AI 产品经理工具箱。
 
@@ -65,7 +65,7 @@
 
 ---
 
-### Possible Productization｜可能的产品化方向 🚀
+## Possible Productization｜可能的产品化方向 🚀
 
 如果把这个项目继续产品化，可以不只是做成 Prompt 列表，而是做成一个“AI 产品经理工作台”。
 

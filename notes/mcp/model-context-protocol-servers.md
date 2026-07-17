@@ -1,10 +1,10 @@
 # MCP Servers｜让 AI 连接外部工具和数据源 🔌
 
-- Source｜来源：modelcontextprotocol/servers
+- Source｜来源：modelcontextprotocol/servers GitHub Repository
 - Type｜类型：MCP Server 参考实现 / MCP 生态资源 / 工具连接协议
 - Link｜链接：https://github.com/modelcontextprotocol/servers
 
-### What It Is｜它是什么
+## What It Is｜它是什么
 
 MCP Servers 是 Model Context Protocol 生态下的服务器实现与资源集合。
 
@@ -15,7 +15,7 @@ MCP，全称是 Model Context Protocol，中文可以理解为“模型上下文
 
 ---
 
-### Why It Matters｜为什么值得关注 🔍
+## Why It Matters｜为什么值得关注 🔍
 
 很多 AI 产品早期的问题是：模型本身很强，但它和真实工作环境之间是断开的。
 
@@ -37,7 +37,7 @@ MCP 的价值就在于，它尝试把这些连接方式标准化，让不同 AI 
 
 ---
 
-### Product Insight｜产品观察 💡
+## Product Insight｜产品观察 💡
 
 MCP 最值得关注的地方，是它改变了 AI 产品的能力边界。
 
@@ -70,7 +70,7 @@ MCP 最值得关注的地方，是它改变了 AI 产品的能力边界。
 
 ---
 
-### Reusable Value｜可复用价值 🛠️
+## Reusable Value｜可复用价值 🛠️
 
 这个项目可以被复用在几个方向：
 
@@ -96,7 +96,7 @@ MCP 最值得关注的地方，是它改变了 AI 产品的能力边界。
 
 ---
 
-### Possible Productization｜可能的产品化方向 🚀
+## Possible Productization｜可能的产品化方向 🚀
 
 如果从产品角度继续延伸，MCP 可以发展成面向不同用户的 AI 工具连接平台。
 
