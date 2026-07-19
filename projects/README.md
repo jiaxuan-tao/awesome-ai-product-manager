@@ -45,3 +45,5 @@
   - 关键词：RAGFlow、Document Understanding、RAG、Context Engine、可追溯引用、知识库运营
 - [E2B｜为 AI Agent 提供隔离执行环境](./e2b-agent-sandbox-platform.md)
   - 关键词：E2B、AI Agent、Sandbox、隔离执行环境、Agent Runtime、Agent Infrastructure
+- [Firecrawl｜面向 AI Agent 的网页数据获取层](./firecrawl-web-data-for-ai-agents.md)
+  - 关键词：Firecrawl、Web Data、网页抓取、AI Agent、RAG、数据获取层

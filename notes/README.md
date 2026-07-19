@@ -13,6 +13,8 @@
   - 关键词：Prompt、AI 工作流、产品经理工具箱、任务入口设计
 - [Prompt Versioning｜把 Prompt 从一次性文本变成可迭代的产品配置](./prompts/prompt-versioning-product-configuration.md)
   - 关键词：Prompt Management、Prompt Versioning、版本管理、Prompt 评估、发布控制、AI Workflow
+- [Prompt Caching｜把重复上下文变成可管理的成本与延迟策略](./prompts/prompt-caching-cost-latency-strategy.md)
+  - 关键词：Prompt Caching、上下文复用、成本优化、响应延迟、缓存命中、AI 应用运行
 
 ---
 
@@ -70,6 +72,8 @@
   - 关键词：Tool Calling、MCP、Agent UX、工具调用、权限控制、执行反馈
 - [Computer Use｜让 Agent 从浏览器操作走向图形界面任务执行](./tools/computer-use-agent-interface.md)
   - 关键词：Computer Use、GUI Agent、图形界面、任务执行、Agent Safety、人机协作
+- [Tool Search｜让 Agent 按需发现和加载工具](./tools/tool-search-dynamic-tool-discovery.md)
+  - 关键词：Tool Search、Dynamic Tool Discovery、工具目录、按需加载、Agent Tooling、上下文管理
 
 ---
 
