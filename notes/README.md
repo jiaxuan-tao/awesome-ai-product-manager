@@ -61,6 +61,8 @@
   - 关键词：MCP Authorization、OAuth、权限边界、最小权限、授权撤销、Agent 治理
 - [MCP Elicitation｜让 AI 在工具调用中向用户补充信息](./mcp/mcp-elicitation-user-input.md)
   - 关键词：MCP Elicitation、结构化输入、Form Mode、URL Mode、用户决策、任务恢复
+- [MCP Resources｜让 AI 应用读取可发现的上下文](./mcp/mcp-resources-context-supply.md)
+  - 关键词：MCP Resources、上下文供给、资源发现、Application-controlled Context、资源更新
 
 ---
 
@@ -89,6 +91,8 @@
   - 关键词：Structured Outputs、JSON Schema、输出契约、数据校验、AI Workflow、产品稳定性
 - [Prompt Injection｜AI 产品中的指令与数据边界](./methods/prompt-injection-instruction-data-boundary.md)
   - 关键词：Prompt Injection、指令与数据边界、不可信输入、RAG Security、Agent Safety
+- [Agent Evaluation｜从最终答案到执行轨迹](./methods/agent-evaluation-outcome-and-trajectory.md)
+  - 关键词：Agent Evaluation、Trajectory、Outcome、Grader、任务成功、回归测试
 
 ---
 

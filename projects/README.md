@@ -47,3 +47,7 @@
   - 关键词：E2B、AI Agent、Sandbox、隔离执行环境、Agent Runtime、Agent Infrastructure
 - [Firecrawl｜面向 AI Agent 的网页数据获取层](./firecrawl-web-data-for-ai-agents.md)
   - 关键词：Firecrawl、Web Data、网页抓取、AI Agent、RAG、数据获取层
+- [Composio｜面向 AI Agent 的工具集成与认证平台](./composio-agent-tool-integration-platform.md)
+  - 关键词：Composio、Agent Tools、工具集成、用户认证、OAuth、连接管理
+- [Guardrails AI｜把输入输出验证放进 AI 应用运行时](./guardrails-ai-runtime-validation-framework.md)
+  - 关键词：Guardrails AI、Runtime Validation、Input Guard、Output Guard、Validator、LLM Safety
