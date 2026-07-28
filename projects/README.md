@@ -51,3 +51,7 @@
   - 关键词：Composio、Agent Tools、工具集成、用户认证、OAuth、连接管理
 - [Guardrails AI｜把输入输出验证放进 AI 应用运行时](./guardrails-ai-runtime-validation-framework.md)
   - 关键词：Guardrails AI、Runtime Validation、Input Guard、Output Guard、Validator、LLM Safety
+- [Official MCP Registry｜MCP Server 的发现、发布与信任入口](./official-mcp-registry-server-discovery.md)
+  - 关键词：MCP Registry、Server Discovery、命名空间验证、元数据、MCP 生态、信任边界
+- [DSPy｜从手工 Prompt 调整到可评估的 AI 程序优化](./dspy-programmatic-llm-optimization.md)
+  - 关键词：DSPy、LLM Programming、Prompt Optimization、Evaluation、AI 程序、指标设计

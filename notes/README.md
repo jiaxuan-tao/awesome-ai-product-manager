@@ -24,6 +24,8 @@
   - 关键词：Skills、AI Agent、产品经理工作流、能力模块设计
 - [Agent Skills｜把专业能力封装成可发现、可组合的 AI 能力单元](./skills/agent-skills-reusable-capabilities.md)
   - 关键词：Agent Skills、能力封装、渐进披露、Skill Discovery、可复用能力
+- [Agent Skill Security｜把 Skill 当作可执行软件进行审查](./skills/agent-skill-security-and-governance.md)
+  - 关键词：Agent Skills、Security Review、能力治理、权限预览、版本控制、供应链风险
 
 ---
 
