@@ -57,3 +57,5 @@
   - 关键词：DSPy、LLM Programming、Prompt Optimization、Evaluation、AI 程序、指标设计
 - [LiteLLM｜多模型接入与 AI Gateway 的产品化观察](./litellm-ai-gateway.md)
   - 关键词：LiteLLM、AI Gateway、多模型接入、模型路由、Fallback、成本治理
+- [Vane｜自托管 AI Answering Engine 的产品化观察](./vane-self-hosted-ai-answering-engine.md)
+  - 关键词：Vane、AI Answering Engine、AI Search、引用溯源、自托管、本地模型
