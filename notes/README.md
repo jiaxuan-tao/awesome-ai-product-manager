@@ -37,6 +37,8 @@
   - 关键词：LangGraph、Stateful Agent、Agent Orchestration、Workflow、状态管理、可恢复执行
 - [A2A Protocol｜从单个 Agent 到跨系统协作](./agents/a2a-agent-interoperability-protocol.md)
   - 关键词：A2A、Agent Interoperability、Agent Card、任务委派、多智能体协作、Agent 协议
+- [Multi-agent Research Systems｜从单 Agent 到并行协作架构](./agents/multi-agent-research-orchestration.md)
+  - 关键词：Multi-agent、Research Agent、Orchestrator-Worker、并行探索、任务分解、Agent 成本
 
 ---
 
@@ -65,6 +67,8 @@
   - 关键词：MCP Elicitation、结构化输入、Form Mode、URL Mode、用户决策、任务恢复
 - [MCP Resources｜让 AI 应用读取可发现的上下文](./mcp/mcp-resources-context-supply.md)
   - 关键词：MCP Resources、上下文供给、资源发现、Application-controlled Context、资源更新
+- [MCP Sampling｜让 Server 请求模型完成生成任务](./mcp/mcp-sampling-server-initiated-generation.md)
+  - 关键词：MCP Sampling、Server-initiated Generation、模型选择、用户批准、成本控制、上下文边界
 
 ---
 

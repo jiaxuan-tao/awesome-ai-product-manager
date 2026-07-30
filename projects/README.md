@@ -55,3 +55,5 @@
   - 关键词：MCP Registry、Server Discovery、命名空间验证、元数据、MCP 生态、信任边界
 - [DSPy｜从手工 Prompt 调整到可评估的 AI 程序优化](./dspy-programmatic-llm-optimization.md)
   - 关键词：DSPy、LLM Programming、Prompt Optimization、Evaluation、AI 程序、指标设计
+- [LiteLLM｜多模型接入与 AI Gateway 的产品化观察](./litellm-ai-gateway.md)
+  - 关键词：LiteLLM、AI Gateway、多模型接入、模型路由、Fallback、成本治理
