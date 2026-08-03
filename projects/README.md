@@ -59,3 +59,5 @@
   - 关键词：LiteLLM、AI Gateway、多模型接入、模型路由、Fallback、成本治理
 - [Vane｜自托管 AI Answering Engine 的产品化观察](./vane-self-hosted-ai-answering-engine.md)
   - 关键词：Vane、AI Answering Engine、AI Search、引用溯源、自托管、本地模型
+- [Onyx｜连接企业知识与权限边界的 AI 工作台](./onyx-enterprise-search-ai-workspace.md)
+  - 关键词：Onyx、Enterprise Search、AI Workspace、RAG、知识连接、权限感知检索

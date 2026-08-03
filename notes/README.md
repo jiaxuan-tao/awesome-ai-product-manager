@@ -15,6 +15,8 @@
   - 关键词：Prompt Management、Prompt Versioning、版本管理、Prompt 评估、发布控制、AI Workflow
 - [Prompt Caching｜把重复上下文变成可管理的成本与延迟策略](./prompts/prompt-caching-cost-latency-strategy.md)
   - 关键词：Prompt Caching、上下文复用、成本优化、响应延迟、缓存命中、AI 应用运行
+- [Instruction Architecture｜把 AI 产品规则组织成可维护的指令层](./prompts/instruction-architecture-for-ai-products.md)
+  - 关键词：Instruction Architecture、Prompt Design、指令分层、行为边界、任务契约、外部内容
 
 ---
 
@@ -99,6 +101,8 @@
   - 关键词：Prompt Injection、指令与数据边界、不可信输入、RAG Security、Agent Safety
 - [Agent Evaluation｜从最终答案到执行轨迹](./methods/agent-evaluation-outcome-and-trajectory.md)
   - 关键词：Agent Evaluation、Trajectory、Outcome、Grader、任务成功、回归测试
+- [Ambient Context｜当 AI 开始持续理解用户的数字工作环境](./methods/ambient-context-for-ai-products.md)
+  - 关键词：Ambient Context、持续感知、Local-first AI、上下文采集、Privacy UX、数据控制
 
 ---
 
