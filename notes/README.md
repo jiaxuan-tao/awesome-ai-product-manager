@@ -28,6 +28,8 @@
   - 关键词：Agent Skills、能力封装、渐进披露、Skill Discovery、可复用能力
 - [Agent Skill Security｜把 Skill 当作可执行软件进行审查](./skills/agent-skill-security-and-governance.md)
   - 关键词：Agent Skills、Security Review、能力治理、权限预览、版本控制、供应链风险
+- [Skill Evaluation｜如何验证 Agent Skill 是否真正有效](./skills/skill-evaluation-triggering-and-task-success.md)
+  - 关键词：Skill Evaluation、触发准确性、指令遵循、任务成功、能力回归、发布门槛
 
 ---
 
@@ -56,6 +58,8 @@
   - 关键词：Generative UI、AI-native Interface、Tool Calling、动态组件、交互状态、AI Workflow
 - [AG-UI Protocol｜让 Agent 状态进入用户界面](./workflows/ag-ui-agent-user-interaction-protocol.md)
   - 关键词：AG-UI、Agent-User Interaction、事件流、共享状态、流式界面、Agent UX
+- [Voice Agent Turn-taking｜语音 AI 中的打断、等待与轮次管理](./workflows/voice-agent-turn-taking-and-interruption.md)
+  - 关键词：Voice Agent、Turn-taking、Turn Detection、用户打断、误打断恢复、语音交互
 
 ---
 

@@ -61,3 +61,5 @@
   - 关键词：Vane、AI Answering Engine、AI Search、引用溯源、自托管、本地模型
 - [Onyx｜连接企业知识与权限边界的 AI 工作台](./onyx-enterprise-search-ai-workspace.md)
   - 关键词：Onyx、Enterprise Search、AI Workspace、RAG、知识连接、权限感知检索
+- [Open Notebook｜从文档问答到可组织的 AI 研究工作空间](./open-notebook-ai-research-workspace.md)
+  - 关键词：Open Notebook、AI Research Workspace、Knowledge Notebook、RAG、资料组织、研究工作流
