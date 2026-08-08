@@ -17,6 +17,8 @@
   - 关键词：Prompt Caching、上下文复用、成本优化、响应延迟、缓存命中、AI 应用运行
 - [Instruction Architecture｜把 AI 产品规则组织成可维护的指令层](./prompts/instruction-architecture-for-ai-products.md)
   - 关键词：Instruction Architecture、Prompt Design、指令分层、行为边界、任务契约、外部内容
+- [Few-shot Examples｜用示例定义 AI 产品的行为边界](./prompts/few-shot-examples-product-behavior.md)
+  - 关键词：Few-shot Prompting、示例设计、行为边界、边界案例、Prompt 配置、示例评估
 
 ---
 
@@ -43,6 +45,8 @@
   - 关键词：A2A、Agent Interoperability、Agent Card、任务委派、多智能体协作、Agent 协议
 - [Multi-agent Research Systems｜从单 Agent 到并行协作架构](./agents/multi-agent-research-orchestration.md)
   - 关键词：Multi-agent、Research Agent、Orchestrator-Worker、并行探索、任务分解、Agent 成本
+- [Agent Loop｜让 Agent 知道何时继续、停止与求助](./agents/agent-loop-stop-and-escalation.md)
+  - 关键词：Agent Loop、停止条件、完成证据、循环检测、运行预算、人工求助
 
 ---
 
