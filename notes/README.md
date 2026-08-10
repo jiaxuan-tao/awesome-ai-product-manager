@@ -92,6 +92,8 @@
   - 关键词：Computer Use、GUI Agent、图形界面、任务执行、Agent Safety、人机协作
 - [Tool Search｜让 Agent 按需发现和加载工具](./tools/tool-search-dynamic-tool-discovery.md)
   - 关键词：Tool Search、Dynamic Tool Discovery、工具目录、按需加载、Agent Tooling、上下文管理
+- [Web Search Grounding｜把实时网页搜索变成可核验的 AI 回答](./tools/web-search-grounding-citable-answers.md)
+  - 关键词：Web Search、Grounding、Citation UX、实时信息、来源核验、证据链
 
 ---
 
@@ -111,6 +113,8 @@
   - 关键词：Agent Evaluation、Trajectory、Outcome、Grader、任务成功、回归测试
 - [Ambient Context｜当 AI 开始持续理解用户的数字工作环境](./methods/ambient-context-for-ai-products.md)
   - 关键词：Ambient Context、持续感知、Local-first AI、上下文采集、Privacy UX、数据控制
+- [AI Product Latency Design｜把等待时间设计成可管理的产品体验](./methods/ai-product-latency-experience-design.md)
+  - 关键词：Latency Optimization、Streaming、AI UX、异步任务、可取消、任务进度
 
 ---
 
