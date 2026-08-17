@@ -32,6 +32,8 @@
   - 关键词：Agent Skills、Security Review、能力治理、权限预览、版本控制、供应链风险
 - [Skill Evaluation｜如何验证 Agent Skill 是否真正有效](./skills/skill-evaluation-triggering-and-task-success.md)
   - 关键词：Skill Evaluation、触发准确性、指令遵循、任务成功、能力回归、发布门槛
+- [Skill Interface Contract｜为可复用能力定义输入、输出与边界](./skills/skill-interface-contract-for-agent-capabilities.md)
+  - 关键词：Agent Skills、Capability Contract、输入设计、输出标准、能力边界、可组合性
 
 ---
 
@@ -47,6 +49,8 @@
   - 关键词：Multi-agent、Research Agent、Orchestrator-Worker、并行探索、任务分解、Agent 成本
 - [Agent Loop｜让 Agent 知道何时继续、停止与求助](./agents/agent-loop-stop-and-escalation.md)
   - 关键词：Agent Loop、停止条件、完成证据、循环检测、运行预算、人工求助
+- [Agent Handoffs｜让多 Agent 协作不丢失任务上下文](./agents/agent-handoffs-context-continuity.md)
+  - 关键词：Agent Handoffs、Task Delegation、上下文传递、角色边界、多 Agent、任务恢复
 
 ---
 
@@ -79,6 +83,8 @@
   - 关键词：MCP Resources、上下文供给、资源发现、Application-controlled Context、资源更新
 - [MCP Sampling｜让 Server 请求模型完成生成任务](./mcp/mcp-sampling-server-initiated-generation.md)
   - 关键词：MCP Sampling、Server-initiated Generation、模型选择、用户批准、成本控制、上下文边界
+- [MCP Prompts｜让外部系统提供可发现的任务入口](./mcp/mcp-prompts-discoverable-task-entry.md)
+  - 关键词：MCP Prompts、任务入口、Prompt Template、参数化任务、用户控制、Server 能力
 
 ---
 
