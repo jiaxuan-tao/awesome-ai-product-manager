@@ -100,6 +100,8 @@
   - 关键词：Tool Search、Dynamic Tool Discovery、工具目录、按需加载、Agent Tooling、上下文管理
 - [Web Search Grounding｜把实时网页搜索变成可核验的 AI 回答](./tools/web-search-grounding-citable-answers.md)
   - 关键词：Web Search、Grounding、Citation UX、实时信息、来源核验、证据链
+- [Tool Result Contract｜让 Agent 正确理解外部工具返回值](./tools/tool-result-contract-for-agents.md)
+  - 关键词：Tool Result、Output Schema、结构化返回、错误语义、结果验证、Agent Tooling
 
 ---
 
@@ -121,6 +123,8 @@
   - 关键词：Ambient Context、持续感知、Local-first AI、上下文采集、Privacy UX、数据控制
 - [AI Product Latency Design｜把等待时间设计成可管理的产品体验](./methods/ai-product-latency-experience-design.md)
   - 关键词：Latency Optimization、Streaming、AI UX、异步任务、可取消、任务进度
+- [Workflow or Agent｜AI 产品何时需要固定流程，何时需要自主执行](./methods/workflow-or-agent-product-decision.md)
+  - 关键词：Workflow、Agent、产品决策、任务可预测性、自治边界、混合架构
 
 ---
 

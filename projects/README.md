@@ -65,3 +65,5 @@
   - 关键词：Open Notebook、AI Research Workspace、Knowledge Notebook、RAG、资料组织、研究工作流
 - [Browser Use｜让 AI Agent 在网页中持续执行任务](./browser-use-web-agent-framework.md)
   - 关键词：Browser Use、Browser Agent、Web Automation、浏览器会话、执行恢复、任务监督
+- [PydanticAI｜类型约束下的 AI Agent 开发框架](./pydantic-ai-typed-agent-framework.md)
+  - 关键词：PydanticAI、Typed Agent、结构化输出、依赖注入、结果验证、Python AI SDK
