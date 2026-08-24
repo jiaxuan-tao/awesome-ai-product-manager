@@ -68,6 +68,8 @@
   - 关键词：AG-UI、Agent-User Interaction、事件流、共享状态、流式界面、Agent UX
 - [Voice Agent Turn-taking｜语音 AI 中的打断、等待与轮次管理](./workflows/voice-agent-turn-taking-and-interruption.md)
   - 关键词：Voice Agent、Turn-taking、Turn Detection、用户打断、误打断恢复、语音交互
+- [Evaluator-Optimizer Workflow｜用反馈循环提升 AI 输出质量](./workflows/evaluator-optimizer-quality-loop.md)
+  - 关键词：Evaluator-Optimizer、生成评估循环、质量标准、反馈修订、迭代预算、AI Workflow
 
 ---
 
@@ -85,6 +87,8 @@
   - 关键词：MCP Sampling、Server-initiated Generation、模型选择、用户批准、成本控制、上下文边界
 - [MCP Prompts｜让外部系统提供可发现的任务入口](./mcp/mcp-prompts-discoverable-task-entry.md)
   - 关键词：MCP Prompts、任务入口、Prompt Template、参数化任务、用户控制、Server 能力
+- [MCP Tasks｜让长时间工具调用拥有可查询的任务状态](./mcp/mcp-tasks-long-running-operations.md)
+  - 关键词：MCP Tasks、长任务、延迟结果、任务状态、取消执行、异步工具调用
 
 ---
 
