@@ -19,6 +19,8 @@
   - 关键词：Instruction Architecture、Prompt Design、指令分层、行为边界、任务契约、外部内容
 - [Few-shot Examples｜用示例定义 AI 产品的行为边界](./prompts/few-shot-examples-product-behavior.md)
   - 关键词：Few-shot Prompting、示例设计、行为边界、边界案例、Prompt 配置、示例评估
+- [Prompt Regression Testing｜把 Prompt 改动变成可重复验证的产品迭代](./prompts/prompt-regression-testing-for-ai-products.md)
+  - 关键词：Prompt Evaluation、Regression Testing、测试集、版本对比、发布门槛、离线评估
 
 ---
 
