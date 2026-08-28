@@ -53,6 +53,8 @@
   - 关键词：Agent Loop、停止条件、完成证据、循环检测、运行预算、人工求助
 - [Agent Handoffs｜让多 Agent 协作不丢失任务上下文](./agents/agent-handoffs-context-continuity.md)
   - 关键词：Agent Handoffs、Task Delegation、上下文传递、角色边界、多 Agent、任务恢复
+- [Agent Planning｜让复杂任务先形成可检查的执行计划](./agents/agent-planning-review-and-replanning.md)
+  - 关键词：Agent Planning、计划审核、重新规划、执行偏离、授权边界、Agent UX
 
 ---
 
