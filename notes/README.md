@@ -110,6 +110,8 @@
   - 关键词：Web Search、Grounding、Citation UX、实时信息、来源核验、证据链
 - [Tool Result Contract｜让 Agent 正确理解外部工具返回值](./tools/tool-result-contract-for-agents.md)
   - 关键词：Tool Result、Output Schema、结构化返回、错误语义、结果验证、Agent Tooling
+- [Tool Retry & Idempotency｜让 Agent 重试时避免重复执行](./tools/tool-retry-and-idempotency.md)
+  - 关键词：Tool Retry、Idempotency、幂等、重复执行、状态核实、操作恢复
 
 ---
 
