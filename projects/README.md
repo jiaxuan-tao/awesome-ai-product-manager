@@ -67,3 +67,5 @@
   - 关键词：Browser Use、Browser Agent、Web Automation、浏览器会话、执行恢复、任务监督
 - [PydanticAI｜类型约束下的 AI Agent 开发框架](./pydantic-ai-typed-agent-framework.md)
   - 关键词：PydanticAI、Typed Agent、结构化输出、依赖注入、结果验证、Python AI SDK
+- [CrewAI｜把多 Agent 协作与确定性流程放进同一框架](./crewai-multi-agent-orchestration-framework.md)
+  - 关键词：CrewAI、Crews、Flows、多 Agent 协作、任务交付、流程编排
