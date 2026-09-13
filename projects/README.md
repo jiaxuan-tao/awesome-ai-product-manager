@@ -69,3 +69,5 @@
   - 关键词：PydanticAI、Typed Agent、结构化输出、依赖注入、结果验证、Python AI SDK
 - [CrewAI｜把多 Agent 协作与确定性流程放进同一框架](./crewai-multi-agent-orchestration-framework.md)
   - 关键词：CrewAI、Crews、Flows、多 Agent 协作、任务交付、流程编排
+- [Spec Kit｜让 AI 编程从需求规格走向可验证实现](./spec-kit-spec-driven-development.md)
+  - 关键词：Spec Kit、Spec-Driven Development、需求规格、任务拆解、验收验证、Vibe Coding
