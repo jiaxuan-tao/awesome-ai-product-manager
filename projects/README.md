@@ -71,3 +71,5 @@
   - 关键词：CrewAI、Crews、Flows、多 Agent 协作、任务交付、流程编排
 - [Spec Kit｜让 AI 编程从需求规格走向可验证实现](./spec-kit-spec-driven-development.md)
   - 关键词：Spec Kit、Spec-Driven Development、需求规格、任务拆解、验收验证、Vibe Coding
+- [Qdrant｜向量检索基础设施如何影响 RAG 产品质量](./qdrant-vector-retrieval-infrastructure.md)
+  - 关键词：Qdrant、Vector Database、Hybrid Search、RAG、语义检索、多租户
