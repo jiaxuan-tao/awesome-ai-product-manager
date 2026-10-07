@@ -73,3 +73,5 @@
   - 关键词：Spec Kit、Spec-Driven Development、需求规格、任务拆解、验收验证、Vibe Coding
 - [Qdrant｜向量检索基础设施如何影响 RAG 产品质量](./qdrant-vector-retrieval-infrastructure.md)
   - 关键词：Qdrant、Vector Database、Hybrid Search、RAG、语义检索、多租户
+- [llama.cpp｜让本地模型运行成为可部署的产品能力](./llama-cpp-local-inference-runtime.md)
+  - 关键词：llama.cpp、Local Inference、GGUF、模型量化、Edge AI、本地模型
