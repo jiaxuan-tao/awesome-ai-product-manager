@@ -131,9 +131,20 @@ from the index file's directory.
 
 ## Delivery Checklist
 
+When the user must complete a manual step in GitHub or another external
+service, always provide the exact clickable URL for that step together with a
+concise description of what to do there. Do not require the user to locate the
+page independently or remind the assistant to include the link. Verify that
+the URL is a stable page the user can reopen; do not share transient,
+session-bound, or POST-only workflow URLs. Also provide the fallback navigation
+path in the interface when the destination requires scrolling or additional
+clicks.
+
 1. Inspect the working tree, target folders, and relevant index before edits.
 2. Preserve unrelated changes and edit only the approved scope.
 3. Verify Markdown formatting, required metadata, heading rules, and local
    Markdown links after the change.
-4. When a commit is required, stage only task files, use the user-provided
+4. Run `node .github/scripts/check-content.mjs` before committing repository
+   content or index changes.
+5. When a commit is required, stage only task files, use the user-provided
    message when available, and push only the intended commit.

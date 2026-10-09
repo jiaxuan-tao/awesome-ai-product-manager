@@ -7,17 +7,18 @@
 
 ---
 
-## 项目整理模板
+## Analysis Structure｜分析结构
 
-后续每个项目会尽量按照以下结构整理：
+每篇项目分析会先标注来源、项目类型和 GitHub 链接，并根据项目特点重点整理：
 
-- Project Name｜项目名称
-- GitHub Link｜项目链接
-- Product Direction｜产品方向
-- Core Features｜核心功能
-- Use Cases｜适用场景
-- Product Reference Value｜产品参考价值
-- Notes｜个人观察
+- What It Is｜项目定位与解决的问题
+- Core Capability｜影响产品形态的核心能力
+- Use Case｜适用场景与不适用边界
+- Product Insight｜从产品视角得到的观察
+- Reusable Value｜可以迁移到其他产品的方法
+- Productization Direction｜可能的产品化方向
+
+具体文章会按项目特点调整结构，不强制使用完全相同的章节。
 
 ---
 
