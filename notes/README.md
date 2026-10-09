@@ -21,6 +21,8 @@
   - 关键词：Few-shot Prompting、示例设计、行为边界、边界案例、Prompt 配置、示例评估
 - [Prompt Regression Testing｜把 Prompt 改动变成可重复验证的产品迭代](./prompts/prompt-regression-testing-for-ai-products.md)
   - 关键词：Prompt Evaluation、Regression Testing、测试集、版本对比、发布门槛、离线评估
+- [Prompt Compression｜在成本、延迟与信息损失之间做取舍](./prompts/prompt-compression-information-loss.md)
+  - 关键词：Prompt Compression、上下文压缩、Token 成本、信息损失、长上下文、质量评估
 
 ---
 
