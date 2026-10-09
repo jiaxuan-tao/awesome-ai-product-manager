@@ -3,11 +3,12 @@
 - Source｜来源：Google PAIR People + AI Guidebook / Official Guidebook
 - Type｜类型：AI 产品方法论 / 产品评估框架 / AI UX 观察
 - Link｜链接：https://pair.withgoogle.com/guidebook-v2/
-- Topic｜主题：如何从产品视角评估一个 AI 产品是否真正可用
 
 ## What It Is｜它是什么
 
 这是一套用于观察和评估 AI 产品的基础框架。
+
+它关注的主题是：如何从产品视角评估一个 AI 产品是否真正可用。
 
 AI 产品和传统软件产品不太一样。
 传统产品通常更关注功能是否完整、路径是否顺畅、页面是否清晰；而 AI 产品除了这些之外，还需要额外关注模型输出质量、任务完成稳定性、用户信任感、异常兜底和人机协作方式。

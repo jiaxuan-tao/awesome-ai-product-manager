@@ -56,6 +56,7 @@ for (const file of markdownFiles) {
       /^- Source｜来源：.+/,
       /^- Type｜类型：.+/,
       /^- Link｜链接：https?:\/\/.+/,
+      /^$/,
     ];
 
     expected.forEach((pattern, index) => {
