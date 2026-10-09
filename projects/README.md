@@ -75,3 +75,5 @@
   - 关键词：Qdrant、Vector Database、Hybrid Search、RAG、语义检索、多租户
 - [llama.cpp｜让本地模型运行成为可部署的产品能力](./llama-cpp-local-inference-runtime.md)
   - 关键词：llama.cpp、Local Inference、GGUF、模型量化、Edge AI、本地模型
+- [vLLM｜高吞吐模型服务如何影响 AI 产品成本与体验](./vllm-high-throughput-inference-serving.md)
+  - 关键词：vLLM、LLM Inference、Model Serving、PagedAttention、连续批处理、吞吐与延迟
