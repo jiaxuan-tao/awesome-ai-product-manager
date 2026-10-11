@@ -38,6 +38,8 @@
   - 关键词：Skill Evaluation、触发准确性、指令遵循、任务成功、能力回归、发布门槛
 - [Skill Interface Contract｜为可复用能力定义输入、输出与边界](./skills/skill-interface-contract-for-agent-capabilities.md)
   - 关键词：Agent Skills、Capability Contract、输入设计、输出标准、能力边界、可组合性
+- [Skill Packaging & Portability｜为什么 Agent Skill 换个环境就可能失效](./skills/skill-packaging-and-portability.md)
+  - 关键词：Agent Skills、Skill Packaging、Runtime Portability、环境依赖、版本兼容、能力分发
 
 ---
 
