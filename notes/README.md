@@ -141,6 +141,8 @@
   - 关键词：Latency Optimization、Streaming、AI UX、异步任务、可取消、任务进度
 - [Workflow or Agent｜AI 产品何时需要固定流程，何时需要自主执行](./methods/workflow-or-agent-product-decision.md)
   - 关键词：Workflow、Agent、产品决策、任务可预测性、自治边界、混合架构
+- [Model Selection｜在质量、延迟与成本之间选择合适模型](./methods/model-selection-quality-cost-latency.md)
+  - 关键词：Model Selection、Reasoning Effort、质量门槛、成本与延迟、任务分级、模型评估
 
 ---
 
