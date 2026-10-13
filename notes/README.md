@@ -97,6 +97,8 @@
   - 关键词：MCP Prompts、任务入口、Prompt Template、参数化任务、用户控制、Server 能力
 - [MCP Tasks｜让长时间工具调用拥有可查询的任务状态](./mcp/mcp-tasks-long-running-operations.md)
   - 关键词：MCP Tasks、长任务、延迟结果、任务状态、取消执行、异步工具调用
+- [MCP Apps｜让工具结果直接变成可交互界面](./mcp/mcp-apps-interactive-ui.md)
+  - 关键词：MCP Apps、Interactive UI、Tool Result、UI Resource、跨客户端、渐进增强
 
 ---
 
