@@ -135,6 +135,8 @@
   - 关键词：Prompt Injection、指令与数据边界、不可信输入、RAG Security、Agent Safety
 - [Agent Evaluation｜从最终答案到执行轨迹](./methods/agent-evaluation-outcome-and-trajectory.md)
   - 关键词：Agent Evaluation、Trajectory、Outcome、Grader、任务成功、回归测试
+- [OpenTelemetry GenAI｜让模型与 Agent 运行轨迹拥有统一语言](./methods/opentelemetry-genai-observability.md)
+  - 关键词：OpenTelemetry、GenAI Observability、Semantic Conventions、Agent Tracing、运行轨迹、可观测性
 - [RAG Evaluation｜知识库答错了，先查检索还是生成？](./methods/rag-evaluation-retrieval-and-generation.md)
   - 关键词：RAG Evaluation、Context Precision、Context Recall、Faithfulness、Response Relevancy、知识库评估
 - [Ambient Context｜当 AI 开始持续理解用户的数字工作环境](./methods/ambient-context-for-ai-products.md)
