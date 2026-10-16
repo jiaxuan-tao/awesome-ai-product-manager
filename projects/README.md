@@ -82,3 +82,5 @@
   - 关键词：LlamaIndex、Data Framework、Context Augmentation、RAG、Agent、文档处理
 - [Docling｜把复杂文档转成 AI 可用的结构化数据](./docling-document-conversion.md)
   - 关键词：Docling、Document Conversion、文档解析、表格结构、来源追溯、RAG 数据准备
+- [REA｜让 AI Agent 基于证据理解软件实现](./rea-agent-reverse-engineering.md)
+  - 关键词：REA、Reverse Engineering、MCP、Agent Tools、证据链、软件行为分析
