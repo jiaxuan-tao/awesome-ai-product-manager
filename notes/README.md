@@ -131,6 +131,8 @@
   - 关键词：LangChain、LLM Application Framework、RAG、Agent、AI 产品架构
 - [Structured Outputs｜把模型回答变成可验证的产品数据](./methods/structured-outputs-product-data-contract.md)
   - 关键词：Structured Outputs、JSON Schema、输出契约、数据校验、AI Workflow、产品稳定性
+- [Jev｜当 AI 从生成回答走向直接参与软件决策](./methods/jev-structured-decision-models.md)
+  - 关键词：Jev、Decision Models、System One、结构化决策、置信度、工作流路由
 - [Prompt Injection｜AI 产品中的指令与数据边界](./methods/prompt-injection-instruction-data-boundary.md)
   - 关键词：Prompt Injection、指令与数据边界、不可信输入、RAG Security、Agent Safety
 - [Agent Evaluation｜从最终答案到执行轨迹](./methods/agent-evaluation-outcome-and-trajectory.md)

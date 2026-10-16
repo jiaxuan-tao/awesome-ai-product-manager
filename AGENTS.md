@@ -148,3 +148,29 @@ clicks.
    content or index changes.
 5. When a commit is required, stage only task files, use the user-provided
    message when available, and push only the intended commit.
+
+## Confirmed Topic Queue
+
+The user confirmed the following topics on 2026-10-16 and asked to publish
+them gradually after the Jev note. Preserve this queue for later publishing
+requests; do not publish the remaining topics in the Jev task or start a
+scheduled automation. Recheck current sources and collection overlap before
+writing each article. Prefer these confirmed topics when the user next asks
+to continue publishing, unless they choose another topic.
+
+1. DeepSeek Harness｜把 Agent 的运行能力组织成可替换插件.
+   Destination: Projects (`projects/`).
+   Source: https://github.com/deepseek-ai/deepseek-harness
+   Focus: plugin composition, replaceable runtime capabilities, and maintenance
+   boundaries. Distinguish the concrete project from generic agent orchestration.
+2. Huashu Art Motion｜把动画制作方法封装成可执行 Skill.
+   Destination: Notes / Skills (`notes/skills/`).
+   Source: https://github.com/alchaincyf/huashu-art-motion
+   Focus: creative workflow resources, executable scripts, rendering, and
+   deliverable review; avoid repeating general Skill evaluation guidance.
+3. Personal Agent / Desktop AI Office.
+   Destination: Notes / Workflows (`notes/workflows/`), provisional until a
+   specific angle or product is selected.
+   Status: the direction is retained, but the final title and subject still
+   need narrowing. Choose a concrete mechanism or product and distinguish it
+   from Computer Use, Mem0, and Ambient Context before drafting.
