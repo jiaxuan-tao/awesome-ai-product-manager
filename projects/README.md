@@ -80,3 +80,5 @@
   - 关键词：vLLM、LLM Inference、Model Serving、PagedAttention、连续批处理、吞吐与延迟
 - [LlamaIndex｜把私有数据组织成 Agent 可用的上下文层](./llamaindex-data-context-framework.md)
   - 关键词：LlamaIndex、Data Framework、Context Augmentation、RAG、Agent、文档处理
+- [Docling｜把复杂文档转成 AI 可用的结构化数据](./docling-document-conversion.md)
+  - 关键词：Docling、Document Conversion、文档解析、表格结构、来源追溯、RAG 数据准备
