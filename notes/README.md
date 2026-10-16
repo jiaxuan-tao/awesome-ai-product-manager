@@ -40,6 +40,8 @@
   - 关键词：Agent Skills、Capability Contract、输入设计、输出标准、能力边界、可组合性
 - [Skill Packaging & Portability｜为什么 Agent Skill 换个环境就可能失效](./skills/skill-packaging-and-portability.md)
   - 关键词：Agent Skills、Skill Packaging、Runtime Portability、环境依赖、版本兼容、能力分发
+- [Huashu Art Motion｜把动画制作方法封装成可执行 Skill](./skills/huashu-art-motion-executable-creative-workflow.md)
+  - 关键词：Agent Skill、创作工作流、镜头表、代码动画、成片检查、交付证据
 
 ---
 

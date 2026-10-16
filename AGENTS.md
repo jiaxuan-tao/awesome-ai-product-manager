@@ -167,6 +167,8 @@ published when choosing the next article.
    Focus: plugin composition, replaceable runtime capabilities, and maintenance
    boundaries. Distinguish the concrete project from generic agent orchestration.
 2. Huashu Art Motion｜把动画制作方法封装成可执行 Skill.
+   Status: published on 2026-10-17 as
+   `notes/skills/huashu-art-motion-executable-creative-workflow.md`.
    Destination: Notes / Skills (`notes/skills/`).
    Source: https://github.com/alchaincyf/huashu-art-motion
    Focus: creative workflow resources, executable scripts, rendering, and
