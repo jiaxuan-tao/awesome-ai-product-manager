@@ -84,3 +84,5 @@
   - 关键词：Docling、Document Conversion、文档解析、表格结构、来源追溯、RAG 数据准备
 - [REA｜让 AI Agent 基于证据理解软件实现](./rea-agent-reverse-engineering.md)
   - 关键词：REA、Reverse Engineering、MCP、Agent Tools、证据链、软件行为分析
+- [DeepSeek Harness｜把 Agent 的运行能力组织成可替换插件](./deepseek-harness-plugin-agent-runtime.md)
+  - 关键词：DeepSeek Harness、Agent Runtime、插件化、Cordis、运行配置、组件替换

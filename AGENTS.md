@@ -156,9 +156,12 @@ them gradually after the Jev note. Preserve this queue for later publishing
 requests; do not publish the remaining topics in the Jev task or start a
 scheduled automation. Recheck current sources and collection overlap before
 writing each article. Prefer these confirmed topics when the user next asks
-to continue publishing, unless they choose another topic.
+to continue publishing, unless they choose another topic. Skip entries marked
+published when choosing the next article.
 
 1. DeepSeek Harness｜把 Agent 的运行能力组织成可替换插件.
+   Status: published on 2026-10-17 as
+   `projects/deepseek-harness-plugin-agent-runtime.md`.
    Destination: Projects (`projects/`).
    Source: https://github.com/deepseek-ai/deepseek-harness
    Focus: plugin composition, replaceable runtime capabilities, and maintenance
