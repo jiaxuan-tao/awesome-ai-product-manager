@@ -173,9 +173,12 @@ published when choosing the next article.
    Source: https://github.com/alchaincyf/huashu-art-motion
    Focus: creative workflow resources, executable scripts, rendering, and
    deliverable review; avoid repeating general Skill evaluation guidance.
-3. Personal Agent / Desktop AI Office.
-   Destination: Notes / Workflows (`notes/workflows/`), provisional until a
-   specific angle or product is selected.
-   Status: the direction is retained, but the final title and subject still
-   need narrowing. Choose a concrete mechanism or product and distinguish it
-   from Computer Use, Mem0, and Ambient Context before drafting.
+3. OpenClaw Automations｜让个人 Agent 按约定启动任务.
+   Status: published on 2026-10-17 as
+   `notes/workflows/openclaw-automations-scheduled-agent-tasks.md`.
+   Destination: Notes / Workflows (`notes/workflows/`).
+   Source: https://docs.openclaw.ai/automation/cron-jobs
+   Focus: scheduled task initiation, execution context, run status, result
+   delivery, and notification boundaries. Narrows the retained Personal Agent /
+   Desktop AI Office direction without repeating Computer Use, Mem0, or Ambient
+   Context.

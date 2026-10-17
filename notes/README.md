@@ -80,6 +80,8 @@
   - 关键词：Voice Agent、Turn-taking、Turn Detection、用户打断、误打断恢复、语音交互
 - [Evaluator-Optimizer Workflow｜用反馈循环提升 AI 输出质量](./workflows/evaluator-optimizer-quality-loop.md)
   - 关键词：Evaluator-Optimizer、生成评估循环、质量标准、反馈修订、迭代预算、AI Workflow
+- [OpenClaw Automations｜让个人 Agent 按约定启动任务](./workflows/openclaw-automations-scheduled-agent-tasks.md)
+  - 关键词：Personal Agent、定时任务、Heartbeat、运行状态、结果投递、通知体验
 
 ---
 
