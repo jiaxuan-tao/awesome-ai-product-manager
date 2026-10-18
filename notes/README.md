@@ -153,6 +153,8 @@
   - 关键词：Workflow、Agent、产品决策、任务可预测性、自治边界、混合架构
 - [Model Selection｜在质量、延迟与成本之间选择合适模型](./methods/model-selection-quality-cost-latency.md)
   - 关键词：Model Selection、Reasoning Effort、质量门槛、成本与延迟、任务分级、模型评估
+- [DeepSeek-V4.1-Flash-1017｜模型升级为何开始强调 Agent 框架适配](./methods/deepseek-v41-flash-1017-agent-harness-adaptation.md)
+  - 关键词：DeepSeek、模型更新、Agent Harness、消息编码、框架适配、运行组合
 
 ---
 
