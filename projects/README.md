@@ -88,3 +88,5 @@
   - 关键词：DeepSeek Harness、Agent Runtime、插件化、Cordis、运行配置、组件替换
 - [Perplexity SPACE｜让 Agent 请求找到正确的执行环境](./perplexity-space-sandbox-execution-identity.md)
   - 关键词：SPACE、Agent Sandbox、执行身份、运行实例、状态恢复、执行基础设施
+- [Magpie｜把多 Agent 的模型配置收进一个工作台](./magpie-multi-agent-model-configuration.md)
+  - 关键词：Magpie、Coding Agent、模型配置、本地网关、多模型接入、配置恢复
