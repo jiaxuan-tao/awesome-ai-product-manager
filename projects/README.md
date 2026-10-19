@@ -86,3 +86,5 @@
   - 关键词：REA、Reverse Engineering、MCP、Agent Tools、证据链、软件行为分析
 - [DeepSeek Harness｜把 Agent 的运行能力组织成可替换插件](./deepseek-harness-plugin-agent-runtime.md)
   - 关键词：DeepSeek Harness、Agent Runtime、插件化、Cordis、运行配置、组件替换
+- [Perplexity SPACE｜让 Agent 请求找到正确的执行环境](./perplexity-space-sandbox-execution-identity.md)
+  - 关键词：SPACE、Agent Sandbox、执行身份、运行实例、状态恢复、执行基础设施
