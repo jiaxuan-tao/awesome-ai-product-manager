@@ -42,6 +42,8 @@
   - 关键词：Agent Skills、Skill Packaging、Runtime Portability、环境依赖、版本兼容、能力分发
 - [Huashu Art Motion｜把动画制作方法封装成可执行 Skill](./skills/huashu-art-motion-executable-creative-workflow.md)
   - 关键词：Agent Skill、创作工作流、镜头表、代码动画、成片检查、交付证据
+- [Nuwa Skill｜从人物公开资料到可复用的思考框架](./skills/nuwa-skill-evidence-based-thinking-frameworks.md)
+  - 关键词：女娲 Skill、思考框架、人物视角、资料溯源、保真度评估、方法复用
 
 ---
 
