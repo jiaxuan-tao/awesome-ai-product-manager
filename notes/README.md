@@ -44,6 +44,8 @@
   - 关键词：Agent Skill、创作工作流、镜头表、代码动画、成片检查、交付证据
 - [Nuwa Skill｜从人物公开资料到可复用的思考框架](./skills/nuwa-skill-evidence-based-thinking-frameworks.md)
   - 关键词：女娲 Skill、思考框架、人物视角、资料溯源、保真度评估、方法复用
+- [Huashu Design｜从生成好看的页面到交付可编辑的演示文稿](./skills/huashu-design-editable-presentation-delivery.md)
+  - 关键词：Huashu Design、Design Skill、可编辑 PPTX、交付格式、修改成本、文档交接
 
 ---
 
