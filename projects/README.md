@@ -90,3 +90,5 @@
   - 关键词：SPACE、Agent Sandbox、执行身份、运行实例、状态恢复、执行基础设施
 - [Magpie｜把多 Agent 的模型配置收进一个工作台](./magpie-multi-agent-model-configuration.md)
   - 关键词：Magpie、Coding Agent、模型配置、本地网关、多模型接入、配置恢复
+- [Promptfoo｜把 AI 产品的风险边界变成可重复的对抗测试](./promptfoo-adversarial-ai-product-testing.md)
+  - 关键词：Promptfoo、AI Red Teaming、对抗测试、业务边界、风险验证、修复回归
