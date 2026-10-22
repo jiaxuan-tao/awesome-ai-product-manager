@@ -69,8 +69,20 @@ For every proposed topic, provide:
    summary.
 
 Prefer one well-judged topic by default. Do not draft until the user confirms
-the choice. When a topic is already confirmed or a finished article is
-provided, proceed directly with publication work.
+the choice. When a topic is already confirmed, proceed to drafting, not
+directly to publication.
+
+## Draft Review Before Publication
+
+Before publishing new content, show the complete proposed Markdown article
+in a fenced code block in the chat. This is the default for every future
+article, even when its topic is already confirmed.
+
+Wait for explicit publication approval after the user has seen the draft
+before creating or changing article files or index entries, committing, or
+pushing publication changes. Topic approval and requests such as "publish a
+new article" do not waive draft review. Only an explicit user instruction to
+skip this review for the current task overrides this default.
 
 ## Article Requirements
 

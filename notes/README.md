@@ -65,6 +65,8 @@
   - 关键词：Agent Handoffs、Task Delegation、上下文传递、角色边界、多 Agent、任务恢复
 - [Agent Planning｜让复杂任务先形成可检查的执行计划](./agents/agent-planning-review-and-replanning.md)
   - 关键词：Agent Planning、计划审核、重新规划、执行偏离、授权边界、Agent UX
+- [WorkBuddy｜把任务、文件与交付组织进同一个工作空间](./agents/workbuddy-task-workspace-delivery.md)
+  - 关键词：WorkBuddy、Desktop Agent、任务工作空间、文件协作、产物验收、持续修订
 
 ---
 
