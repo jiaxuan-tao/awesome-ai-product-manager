@@ -46,6 +46,8 @@
   - 关键词：女娲 Skill、思考框架、人物视角、资料溯源、保真度评估、方法复用
 - [Huashu Design｜从生成好看的页面到交付可编辑的演示文稿](./skills/huashu-design-editable-presentation-delivery.md)
   - 关键词：Huashu Design、Design Skill、可编辑 PPTX、交付格式、修改成本、文档交接
+- [Ponytail｜让 AI 编程追求最小完整改动，而不是越写越多](./skills/ponytail-minimal-complete-coding-changes.md)
+  - 关键词：Ponytail、Agent Skill、Vibe Coding、最小完整改动、代码复用、工程复杂度
 
 ---
 
