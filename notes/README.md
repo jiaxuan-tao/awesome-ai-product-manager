@@ -111,6 +111,8 @@
   - 关键词：MCP Tasks、长任务、延迟结果、任务状态、取消执行、异步工具调用
 - [MCP Apps｜让工具结果直接变成可交互界面](./mcp/mcp-apps-interactive-ui.md)
   - 关键词：MCP Apps、Interactive UI、Tool Result、UI Resource、跨客户端、渐进增强
+- [Context7｜让 AI 编程先查对版本，再写代码](./mcp/context7-version-aware-coding-documentation.md)
+  - 关键词：Context7、MCP、开发文档检索、版本匹配、Vibe Coding、开发依据
 
 ---
 
