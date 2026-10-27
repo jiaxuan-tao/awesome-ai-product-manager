@@ -92,3 +92,5 @@
   - 关键词：Magpie、Coding Agent、模型配置、本地网关、多模型接入、配置恢复
 - [Promptfoo｜把 AI 产品的风险边界变成可重复的对抗测试](./promptfoo-adversarial-ai-product-testing.md)
   - 关键词：Promptfoo、AI Red Teaming、对抗测试、业务边界、风险验证、修复回归
+- [PageIndex｜让 AI 沿着文档结构寻找答案](./pageindex-structure-aware-document-retrieval.md)
+  - 关键词：PageIndex、文档树索引、推理式检索、RAG、证据覆盖、长文档问答
