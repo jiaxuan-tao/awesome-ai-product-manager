@@ -94,3 +94,5 @@
   - 关键词：Promptfoo、AI Red Teaming、对抗测试、业务边界、风险验证、修复回归
 - [PageIndex｜让 AI 沿着文档结构寻找答案](./pageindex-structure-aware-document-retrieval.md)
   - 关键词：PageIndex、文档树索引、推理式检索、RAG、证据覆盖、长文档问答
+- [WrenAI｜让 AI 查数据之前，先理解业务口径](./wrenai-business-semantic-data-analysis.md)
+  - 关键词：WrenAI、GenBI、Text-to-SQL、语义层、业务口径、指标定义
