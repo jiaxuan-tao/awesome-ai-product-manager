@@ -90,6 +90,8 @@
   - 关键词：Evaluator-Optimizer、生成评估循环、质量标准、反馈修订、迭代预算、AI Workflow
 - [OpenClaw Automations｜让个人 Agent 按约定启动任务](./workflows/openclaw-automations-scheduled-agent-tasks.md)
   - 关键词：Personal Agent、定时任务、Heartbeat、运行状态、结果投递、通知体验
+- [Agent Compensation｜任务失败后，如何处理已经完成的操作](./workflows/agent-compensation-partial-failure-recovery.md)
+  - 关键词：Agent Compensation、补偿操作、部分失败、执行恢复、不可逆动作、AI Workflow
 
 ---
 
