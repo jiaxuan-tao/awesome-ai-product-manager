@@ -202,11 +202,12 @@ one article at a time, leaving the rest for later. Topic approval does not waive
 draft review. Recheck current official sources, recent Star growth, and overlap
 before each draft; do not treat the original trend snapshot as current data.
 
-1. Impeccable: approved draft for publication on 2026-11-05 at
+1. Impeccable: published on 2026-11-05 as
    `notes/skills/impeccable-actionable-design-feedback.md`.
    Source: https://github.com/pbakaus/impeccable
    Focus: actionable design feedback, review priorities, and bounded UI changes.
-2. T3 Code: pending; Projects (`projects/`).
+2. T3 Code: approved draft for publication on 2026-11-05 at
+   `projects/t3-code-cross-device-agent-control.md`.
    Source: https://github.com/pingdotgg/t3code
    Focus: cross-device control and continuity of coding-agent tasks, not model
    configuration already covered by Magpie.

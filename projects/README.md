@@ -96,3 +96,5 @@
   - 关键词：PageIndex、文档树索引、推理式检索、RAG、证据覆盖、长文档问答
 - [WrenAI｜让 AI 查数据之前，先理解业务口径](./wrenai-business-semantic-data-analysis.md)
   - 关键词：WrenAI、GenBI、Text-to-SQL、语义层、业务口径、指标定义
+- [T3 Code｜当编程 Agent 需要一个跨设备控制台](./t3-code-cross-device-agent-control.md)
+  - 关键词：T3 Code、Coding Agent、跨设备控制、执行环境、任务接续、开发工作流
