@@ -194,3 +194,31 @@ published when choosing the next article.
    delivery, and notification boundaries. Narrows the retained Personal Agent /
    Desktop AI Office direction without repeating Computer Use, Mem0, or Ambient
    Context.
+
+### November 2026 Publication Sequence
+
+On 2026-11-04 the user selected the recommendation order below and requested
+one article at a time, leaving the rest for later. Topic approval does not waive
+draft review. Recheck current official sources, recent Star growth, and overlap
+before each draft; do not treat the original trend snapshot as current data.
+
+1. Impeccable: approved draft for publication on 2026-11-05 at
+   `notes/skills/impeccable-actionable-design-feedback.md`.
+   Source: https://github.com/pbakaus/impeccable
+   Focus: actionable design feedback, review priorities, and bounded UI changes.
+2. T3 Code: pending; Projects (`projects/`).
+   Source: https://github.com/pingdotgg/t3code
+   Focus: cross-device control and continuity of coding-agent tasks, not model
+   configuration already covered by Magpie.
+3. Hallmark: pending; Notes / Skills (`notes/skills/`).
+   Source: https://github.com/Nutlope/hallmark
+   Focus: initial design constraints and generation checks. Publish only if the
+   observation remains distinct from Impeccable; avoid consecutive similar posts.
+4. Claude-mem: pending; Projects (`projects/`).
+   Source: https://github.com/thedotmack/claude-mem
+   Focus: coding-session continuity and stale-record handling, not a repeat of
+   the general long-term-memory discussion in Mem0.
+5. Superpowers: pending; Notes / Skills (`notes/skills/`).
+   Source: https://github.com/obra/superpowers
+   Focus: workflow triggering and verification across Skills; avoid repeating
+   Spec Kit and Agent Planning.

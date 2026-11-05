@@ -48,6 +48,8 @@
   - 关键词：Huashu Design、Design Skill、可编辑 PPTX、交付格式、修改成本、文档交接
 - [Ponytail｜让 AI 编程追求最小完整改动，而不是越写越多](./skills/ponytail-minimal-complete-coding-changes.md)
   - 关键词：Ponytail、Agent Skill、Vibe Coding、最小完整改动、代码复用、工程复杂度
+- [Impeccable｜把“界面不好看”变成可执行的设计反馈](./skills/impeccable-actionable-design-feedback.md)
+  - 关键词：Impeccable、Design Skill、界面评审、设计反馈、局部改进、Vibe Coding
 
 ---
 
