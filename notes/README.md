@@ -50,6 +50,8 @@
   - 关键词：Ponytail、Agent Skill、Vibe Coding、最小完整改动、代码复用、工程复杂度
 - [Impeccable｜把“界面不好看”变成可执行的设计反馈](./skills/impeccable-actionable-design-feedback.md)
   - 关键词：Impeccable、Design Skill、界面评审、设计反馈、局部改进、Vibe Coding
+- [Hallmark｜让真实素材和用户任务决定第一版界面](./skills/hallmark-material-and-task-led-interface.md)
+  - 关键词：Hallmark、Design Skill、真实素材、用户任务、页面结构、Vibe Coding
 
 ---
 

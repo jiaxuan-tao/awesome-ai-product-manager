@@ -206,12 +206,13 @@ before each draft; do not treat the original trend snapshot as current data.
    `notes/skills/impeccable-actionable-design-feedback.md`.
    Source: https://github.com/pbakaus/impeccable
    Focus: actionable design feedback, review priorities, and bounded UI changes.
-2. T3 Code: approved draft for publication on 2026-11-05 at
+2. T3 Code: published on 2026-11-05 as
    `projects/t3-code-cross-device-agent-control.md`.
    Source: https://github.com/pingdotgg/t3code
    Focus: cross-device control and continuity of coding-agent tasks, not model
    configuration already covered by Magpie.
-3. Hallmark: pending; Notes / Skills (`notes/skills/`).
+3. Hallmark: approved draft for publication on 2026-11-08 at
+   `notes/skills/hallmark-material-and-task-led-interface.md`.
    Source: https://github.com/Nutlope/hallmark
    Focus: initial design constraints and generation checks. Publish only if the
    observation remains distinct from Impeccable; avoid consecutive similar posts.
