@@ -211,12 +211,13 @@ before each draft; do not treat the original trend snapshot as current data.
    Source: https://github.com/pingdotgg/t3code
    Focus: cross-device control and continuity of coding-agent tasks, not model
    configuration already covered by Magpie.
-3. Hallmark: approved draft for publication on 2026-11-08 at
+3. Hallmark: published on 2026-11-08 as
    `notes/skills/hallmark-material-and-task-led-interface.md`.
    Source: https://github.com/Nutlope/hallmark
    Focus: initial design constraints and generation checks. Publish only if the
    observation remains distinct from Impeccable; avoid consecutive similar posts.
-4. Claude-mem: pending; Projects (`projects/`).
+4. Claude-mem: approved draft for publication on 2026-11-10 at
+   `projects/claude-mem-coding-session-continuity.md`.
    Source: https://github.com/thedotmack/claude-mem
    Focus: coding-session continuity and stale-record handling, not a repeat of
    the general long-term-memory discussion in Mem0.

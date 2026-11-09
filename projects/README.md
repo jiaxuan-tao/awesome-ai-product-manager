@@ -98,3 +98,5 @@
   - 关键词：WrenAI、GenBI、Text-to-SQL、语义层、业务口径、指标定义
 - [T3 Code｜当编程 Agent 需要一个跨设备控制台](./t3-code-cross-device-agent-control.md)
   - 关键词：T3 Code、Coding Agent、跨设备控制、执行环境、任务接续、开发工作流
+- [Claude-mem｜让编程 Agent 接得上，也查得回](./claude-mem-coding-session-continuity.md)
+  - 关键词：Claude-mem、Coding Agent、会话接续、分层检索、工作记录、证据核对
