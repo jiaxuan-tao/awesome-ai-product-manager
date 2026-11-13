@@ -216,12 +216,13 @@ before each draft; do not treat the original trend snapshot as current data.
    Source: https://github.com/Nutlope/hallmark
    Focus: initial design constraints and generation checks. Publish only if the
    observation remains distinct from Impeccable; avoid consecutive similar posts.
-4. Claude-mem: approved draft for publication on 2026-11-10 at
+4. Claude-mem: published on 2026-11-10 as
    `projects/claude-mem-coding-session-continuity.md`.
    Source: https://github.com/thedotmack/claude-mem
    Focus: coding-session continuity and stale-record handling, not a repeat of
    the general long-term-memory discussion in Mem0.
-5. Superpowers: pending; Notes / Skills (`notes/skills/`).
+5. Superpowers: approved draft for publication on 2026-11-13 at
+   `notes/skills/superpowers-evidence-based-skill-handoffs.md`.
    Source: https://github.com/obra/superpowers
    Focus: workflow triggering and verification across Skills; avoid repeating
    Spec Kit and Agent Planning.

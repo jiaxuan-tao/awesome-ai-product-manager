@@ -52,6 +52,8 @@
   - 关键词：Impeccable、Design Skill、界面评审、设计反馈、局部改进、Vibe Coding
 - [Hallmark｜让真实素材和用户任务决定第一版界面](./skills/hallmark-material-and-task-led-interface.md)
   - 关键词：Hallmark、Design Skill、真实素材、用户任务、页面结构、Vibe Coding
+- [Superpowers｜让多个编程 Skill 凭证据接力](./skills/superpowers-evidence-based-skill-handoffs.md)
+  - 关键词：Superpowers、Coding Agent、Skill 编排、任务交接、开发验证
 
 ---
 
