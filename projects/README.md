@@ -100,3 +100,5 @@
   - 关键词：T3 Code、Coding Agent、跨设备控制、执行环境、任务接续、开发工作流
 - [Claude-mem｜让编程 Agent 接得上，也查得回](./claude-mem-coding-session-continuity.md)
   - 关键词：Claude-mem、Coding Agent、会话接续、分层检索、工作记录、证据核对
+- [Open Code Review｜让 AI 代码评审少漏看、少误报](./open-code-review-coverage-and-actionable-findings.md)
+  - 关键词：Open Code Review、AI 代码评审、评审覆盖、误报、行为影响、修复验证
