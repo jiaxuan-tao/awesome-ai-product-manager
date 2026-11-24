@@ -102,3 +102,5 @@
   - 关键词：Claude-mem、Coding Agent、会话接续、分层检索、工作记录、证据核对
 - [Open Code Review｜让 AI 代码评审少漏看、少误报](./open-code-review-coverage-and-actionable-findings.md)
   - 关键词：Open Code Review、AI 代码评审、评审覆盖、误报、行为影响、修复验证
+- [Graphify｜改代码之前，先看清它牵动哪里](./graphify-code-relationships-and-change-impact.md)
+  - 关键词：Graphify、代码知识图谱、调用关系、修改影响、静态分析、Vibe Coding
