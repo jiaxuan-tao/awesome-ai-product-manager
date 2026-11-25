@@ -104,3 +104,5 @@
   - 关键词：Open Code Review、AI 代码评审、评审覆盖、误报、行为影响、修复验证
 - [Graphify｜改代码之前，先看清它牵动哪里](./graphify-code-relationships-and-change-impact.md)
   - 关键词：Graphify、代码知识图谱、调用关系、修改影响、静态分析、Vibe Coding
+- [HyperFrames｜把产品演示视频变成可以继续修改的工程](./hyperframes-editable-product-demo-video.md)
+  - 关键词：HyperFrames、产品演示、代码化视频、局部修订、视频渲染
